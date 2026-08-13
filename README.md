@@ -1,6 +1,4 @@
 <div align="center">
-# Joshua Binotto
-
 ### `kisalto` · Software Engineer | Backend Developer
 
 *Backend, APIs, automação e algumas ideias que começaram com café.*
