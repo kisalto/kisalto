@@ -1,5 +1,6 @@
+# Joshua Binotto
+### Software Engineer | Backend Developer
 <div align="center">
-### `kisalto` · Software Engineer | Backend Developer
 
 *Backend, APIs, automação e algumas ideias que começaram com café.*
 
