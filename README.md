@@ -1,14 +1,18 @@
-# Joshua Binotto
-### Software Engineer | Backend Developer
 <div align="center">
 
-*Backend, APIs, automação e algumas ideias que começaram com café.*
+<h1>Joshua Binotto</h1>
 
-📖 **005.1 KIS — Programação**  ·  📍 Brasil
+<h3><code>kisalto</code> · Software Engineer | Backend Developer</h3>
+
+<br>
+
+<img src="https://github-stats-extended.vercel.app/api?username=kisalto&show_icons=true&hide_border=true&bg_color=3E2723&title_color=D4AF37&text_color=F5E6C8&icon_color=D4AF37" height="165" alt="Estatísticas do GitHub de Joshua Binotto" />
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kisalto&layout=compact&hide_border=true&bg_color=3E2723&title_color=D4AF37&text_color=F5E6C8" height="165" alt="Linguagens mais utilizadas" />
 
 </div>
 
-<br>
+---
 
 ## 👨‍💻 Sobre mim
 
@@ -42,23 +46,13 @@ Também possuo experiência anterior com **suporte técnico Nível 1 e Nível 2*
 
 API REST para uma comunidade de **Under Night In-Birth**, desenvolvida com TypeScript e Express.
 
-`TypeScript` `Express` `Supabase` `REST API`
+`TypeScript` `Express` `Postgresql` `REST API` `React`
 
 **O que demonstra:** desenvolvimento de API, integração com banco de dados e deploy de uma aplicação real.
 
 ---
 
-### II · [fg_site-RPD](https://github.com/kisalto/fg_site-RPD)
-
-Backend de uma plataforma voltada para comunidades de **fighting games**, desenvolvido em Java e integrado a um frontend Angular desenvolvido em conjunto.
-
-`Java` `Spring Boot` `Maven` `REST API`
-
-**O que demonstra:** desenvolvimento backend, integração frontend/backend e organização de uma aplicação web.
-
----
-
-### III · [fastapi-learning](https://github.com/kisalto/fastapi-learning)
+### II · [fastapi-learning](https://github.com/kisalto/fastapi-learning)
 
 Projeto criado para aprofundar conhecimentos em desenvolvimento backend com FastAPI.
 
@@ -75,7 +69,7 @@ Inclui:
 
 ---
 
-### IV · Fine-tuning de LLMs
+### II · Fine-tuning de LLMs
 
 Projeto experimental envolvendo **fine-tuning do Qwen2.5-Coder-3B**, utilizando datasets sintéticos e APIs de geração de dados.
 
@@ -85,7 +79,7 @@ Atualmente explorando a variante **Instruct** e diferentes estratégias de trein
 
 ---
 
-### V · Deploy AWS
+### IV · Deploy AWS
 
 Também desenvolvi e realizei o deploy de uma aplicação composta por:
 
@@ -123,23 +117,6 @@ O projeto foi utilizado para explorar o processo completo entre desenvolvimento,
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-3E2723?style=for-the-badge\&logo=githubactions\&logoColor=D4AF37)
 ![Git](https://img.shields.io/badge/Git-3E2723?style=for-the-badge\&logo=git\&logoColor=D4AF37)
 
----
-
-## 📚 Outros projetos
-
-| Projeto                                                           | Descrição                                                     | Tecnologias            |
-| ----------------------------------------------------------------- | ------------------------------------------------------------- | ---------------------- |
-| [dash-Leaning](https://github.com/kisalto/dash-Leaning)           | Estudos de dashboards e visualização de dados                 | `Python` `Plotly Dash` |
-| [Sistema-de-vendas](https://github.com/kisalto/Sistema-de-vendas) | Sistema de vendas desenvolvido durante Engenharia de Software | `C`                    |
-
----
-
-## 📊 GitHub
-
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=kisalto&show_icons=true&hide_border=true&bg_color=3E2723&title_color=D4AF37&text_color=F5E6C8&icon_color=D4AF37" height="165" alt="Estatísticas do GitHub de Joshua Binotto" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kisalto&layout=compact&hide_border=true&bg_color=3E2723&title_color=D4AF37&text_color=F5E6C8" height="165" alt="Linguagens mais utilizadas" />
-</div>
 
 ---
 
