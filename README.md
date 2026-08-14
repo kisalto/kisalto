@@ -122,9 +122,9 @@ O projeto foi utilizado para explorar o processo completo entre desenvolvimento,
 ---
 
 ## 📫 Contato
-
 * 💻 GitHub: [@kisalto](https://github.com/kisalto)
 * 💼 LinkedIn: [Joshua Binotto](https://www.linkedin.com/in/joshua-binotto-40b7242a3/)
+* 📧 Email: joshuabinotto3@gmail.com
 
 ---
 
