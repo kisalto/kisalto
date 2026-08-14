@@ -6,9 +6,9 @@
 
 <br>
 
-<img src="https://github-stats-extended.vercel.app/api?username=kisalto&show_icons=true&hide_border=true&bg_color=3E2723&title_color=D4AF37&text_color=F5E6C8&icon_color=D4AF37" height="165" alt="Estatísticas do GitHub de Joshua Binotto" />
+<img src="https://github-stats-extended.vercel.app/api?username=kisalto&show_icons=true&include_all_commits=true&theme=midnight-purple" height="165" alt="Estatísticas do GitHub de Joshua Binotto" />
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=6&theme=aura" height="165" alt="Linguagens mais utilizadas" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=kisalto&layout=compact&langs_count=6&theme=midnight-purple" height="165" alt="Linguagens mais utilizadas" />
 
 </div>
 
