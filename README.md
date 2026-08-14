@@ -8,9 +8,9 @@
 
 <img src="https://github-stats-extended.vercel.app/api?username=kisalto&show_icons=true&hide_border=true&bg_color=3E2723&title_color=D4AF37&text_color=F5E6C8&icon_color=D4AF37" height="165" alt="Estatísticas do GitHub de Joshua Binotto" />
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kisalto&layout=compact&hide_border=true&bg_color=3E2723&title_color=D4AF37&text_color=F5E6C8" height="165" alt="Linguagens mais utilizadas" />
-
 </div>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=kisalto&hide_title=true&langs_count=6&theme=shades-of-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&hide_title=true&langs_count=6&theme=shades-of-purple)
+
 
 ---
 
