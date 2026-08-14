@@ -115,7 +115,7 @@ O projeto foi utilizado para explorar o processo completo entre desenvolvimento,
 ### Infrastructure & Tools
 
 ![Docker](https://shieldcn.dev/badge/Docker-8B5CF6.svg?variant=outline&mode=dark&logo=docker&logoColor=8B5CF6)
-![AWS Foundations](https://shieldcn.dev/badge/AWS_Foundations-8B5CF6.svg?variant=outline&mode=dark&logo=ri:AmazonFill&logoColor=8B5CF6)
+![AWS Foundations](https://shieldcn.dev/badge/AWS_Foundations-8B5CF6.svg?variant=outline&mode=dark&logo=amazonaws&logoColor=8B5CF6)
 ![GitHub Actions](https://shieldcn.dev/badge/GitHub_Actions-8B5CF6.svg?variant=outline&mode=dark&logo=githubactions&logoColor=8B5CF6)
 ![Git](https://shieldcn.dev/badge/Git-8B5CF6.svg?variant=outline&mode=dark&logo=git&logoColor=8B5CF6)
 
