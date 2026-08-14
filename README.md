@@ -129,5 +129,5 @@ O projeto foi utilizado para explorar o processo completo entre desenvolvimento,
 ---
 
 <div align="center">
-  <sub>📖 Catalogado com 💛 e muito café por kisalto</sub>
+  <sub>📖 Catalogado com 💜 e muito café por kisalto</sub>
 </div>
