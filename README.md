@@ -51,7 +51,7 @@ Tenho maior interesse em **backend, sistemas distribuídos, automação e aplica
 
 ---
 
-## 💼 Experiência
+## 💼 Trabalho Atual
 
 ### Software Engineer Intern — Itaipu Parquetec
 
