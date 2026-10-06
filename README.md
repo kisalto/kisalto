@@ -38,36 +38,27 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## About me
 
-Sou estudante de **Engenharia de Software** na UniAmérica e atuo como **Software Engineer Intern na Itaipu Parquetec**, com foco principalmente em desenvolvimento backend e automação de processos.
+Currently I work as a **software engineer inter** in **Itaipu Parquetec** with focus on **back-end development** and process automation, also at night I'm a **software engineering student** at UniAmérica. My stack revolves around python, typescript, java, Rest API, automation and integration, React and data processing. I have comfort developing back-end solutions, but i can flex with front-end when needed for the project.
 
-Minha experiência envolve **Python, FastAPI, APIs REST, automação, integração de sistemas, processamento de dados e testes automatizados**. Também trabalho com **Java/Spring Boot, TypeScript, React, bancos de dados, Docker, CI/CD e AWS**.
-
-Nos meus projetos pessoais, venho explorando também **Machine Learning e Inteligência Artificial**, incluindo **fine-tuning de LLMs, processamento de dados e aplicações de ML**. Gosto de entender a tecnologia na prática, construindo projetos do zero e passando por diferentes etapas — desenvolvimento, testes, containerização, integração e deploy.
-
-Tenho maior interesse em **backend, sistemas distribuídos, automação e aplicações de IA**, mas mantenho uma abordagem full-stack quando o projeto exige.
-
+I also have some hands on experience with AWS Foundations, AI Training and Fine-Tuning, i do like to test myself and always strive do be better.
 
 ---
 
-## 💼 Trabalho Atual
+## Current Work
 
-### Software Engineer Intern — Itaipu Parquetec
-
-Atuação no desenvolvimento de soluções backend utilizando **Python e FastAPI**, incluindo:
-
-* Desenvolvimento e integração de **APIs REST**
-* Automação da leitura e processamento de **notas fiscais**
-* Geração automatizada de **relatórios em Excel**
-* Desenvolvimento de **testes automatizados**
-* Manutenção e evolução de soluções backend
-
-Também possuo experiência anterior com **suporte técnico Nível 1 e Nível 2**, desenvolvendo habilidades de análise de incidentes, resolução de problemas e atendimento a usuários.
+* Developed APIs using Python's Fast API to support internal back-end solutions.
+* Implemented back-end workflow automation to improve operational efficiency and reduce manual processing.
+* Worked with PostgreSQL and SQLAlchemy to manage, query, and structure application data.
+* Applied automated testing with Pytest to validate E2E, unit and integration modules and increase reliability.
+* Used Docker for containerization and to ensure consistent development and deployment environments.
+* Used Git in a collaborative environment to maintain version control and reproducible workflows.
+* Participated in the full development cycle with a focus on quality, performance, and system consistency.
 
 ---
 
-## 📫 Contato
+## Reach me
 * 💻 GitHub: [@kisalto](https://github.com/kisalto)
 * 💼 LinkedIn: [Joshua Binotto](https://www.linkedin.com/in/joshua-binotto-40b7242a3/)
 * 📧 Email: joshuabinotto3@gmail.com
@@ -75,5 +66,5 @@ Também possuo experiência anterior com **suporte técnico Nível 1 e Nível 2*
 ---
 
 <div align="center">
-  <sub>📖 Catalogado com 💜 e muito café por kisalto</sub>
+  <sub>Thanks for your time >.< 💜</sub>
 </div>
